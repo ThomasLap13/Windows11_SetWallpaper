@@ -6,8 +6,6 @@ Windows 11 Wallpaper Change Script
 **Date:** 14/11/2024  
 **Version:** 1 - Tested on Windows 10/11 23H2/24H2  
 
-Scripts must always be run on the user session of the workstation!
-
 ---
 
 ### 
