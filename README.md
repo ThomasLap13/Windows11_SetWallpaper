@@ -4,7 +4,7 @@ Windows 11 Wallpaper Change Script
 **Author:** ThomasLap13  
 **Link:** [https://github.com/ThomasLap13](https://github.com/ThomasLap13)  
 **Date:** 14/11/2024  
-**Version:** 1 - Tested on Windows 10/11 23H2/24H2  
+**Version:** 1 - Tested on Windows 11 23H2/24H2  
 
 ---
 
@@ -43,7 +43,7 @@ Script changement de fond ecran Windows 11
 **Auteur:** ThomasLap13  
 **Lien:** [https://github.com/ThomasLap13](https://github.com/ThomasLap13)  
 **Date:** 14/11/2024  
-**Version:** 1 - Testé sur Windows 10/11 23H2/24H2  
+**Version:** 1 - Testé sur Windows 11 23H2/24H2  
 
 ---
 
