@@ -71,4 +71,4 @@ Pour créer une nouvelle fonctionnalité dans une catégorie différente de cell
 ### Informations supplémentaires
 
 Pour toute question ou information supplémentaire, n'hésitez pas à me contacter :  
-**ThomasLap13**, apprenti informatique.  # Windows11_SetWallpaper
+**ThomasLap13**, apprenti informatique.
