@@ -8,7 +8,7 @@ Windows 11 Wallpaper Change Script
 
 ---
 
-### 
+### How to customize
 
 To change the image that will be set as the Windows wallpaper, simply go to `.\sources\wallpaper` and replace the image with another one of the same name and file type `(.jpg)`.
 
@@ -45,11 +45,9 @@ Script changement de fond ecran Windows 11
 **Date:** 14/11/2024  
 **Version:** 1 - Testé sur Windows 10/11 23H2/24H2  
 
-Les scripts doivent tous être obligatoirement lancés sur la session utilisateur du poste !
-
 ---
 
-###
+### Comment customiser
 
 Pour modifier l'image qui va etre définie comme fond ecran Windows, il suffit d'aller dans `.\sources\wallpaper` et replacer l'image par une autre avec le meme nom et le meme type de fichier `(.jpg)`
 
